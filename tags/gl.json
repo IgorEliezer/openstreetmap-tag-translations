@@ -1,0 +1,1125 @@
+{
+    "tag:*=no": {
+        "message": "non"
+    },
+    "tag:*=yes": {
+        "message": "si"
+    },
+    "tag:abandoned": {
+        "message": "Abandonado",
+        "description": "Key \"abandoned\". See https://wiki.openstreetmap.org/wiki/Key:abandoned"
+    },
+    "tag:access": {
+        "message": "Permiso de acceso xeral",
+        "description": "Key \"access\". See https://wiki.openstreetmap.org/wiki/Key:access"
+    },
+    "tag:access!=private": {
+        "message": "non privado"
+    },
+    "tag:access=private": {
+        "message": "privado",
+        "description": "Tag \"access=private\". See https://wiki.openstreetmap.org/wiki/Tag:access=private"
+    },
+    "tag:addr:city": {
+        "message": "Cidade",
+        "description": "Key \"addr:city\". See https://wiki.openstreetmap.org/wiki/Key:addr:city"
+    },
+    "tag:addr:country": {
+        "message": "País",
+        "description": "Key \"addr:country\". See https://wiki.openstreetmap.org/wiki/Key:addr:country"
+    },
+    "tag:addr:full": {
+        "message": "Enderezo completo",
+        "description": "Key \"addr:full\". See https://wiki.openstreetmap.org/wiki/Key:addr:full"
+    },
+    "tag:addr:housename": {
+        "message": "Nome do edificio",
+        "description": "Key \"addr:housename\". See https://wiki.openstreetmap.org/wiki/Key:addr:housename"
+    },
+    "tag:addr:housenumber": {
+        "message": "Número do edificio",
+        "description": "Key \"addr:housenumber\". See https://wiki.openstreetmap.org/wiki/Key:addr:housenumber"
+    },
+    "tag:addr:interpolation": {
+        "message": "Números interpolados",
+        "description": "Key \"addr:interpolation\". See https://wiki.openstreetmap.org/wiki/Key:addr:interpolation"
+    },
+    "tag:addr:postcode": {
+        "message": "Código postal",
+        "description": "Key \"addr:postcode\". See https://wiki.openstreetmap.org/wiki/Key:addr:postcode"
+    },
+    "tag:addr:street": {
+        "message": "Rúa",
+        "description": "Key \"addr:street\". See https://wiki.openstreetmap.org/wiki/Key:addr:street"
+    },
+    "tag:address": {
+        "message": "Enderezo",
+        "description": "Key \"address\". See https://wiki.openstreetmap.org/wiki/Key:address"
+    },
+    "tag:admin_level": {
+        "message": "Nivel administrativo",
+        "description": "Key \"admin_level\". See https://wiki.openstreetmap.org/wiki/Key:admin_level"
+    },
+    "tag:admin_level=10": {
+        "message": "Barrio (10)",
+        "description": "Tag \"admin_level=10\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=10"
+    },
+    "tag:admin_level=11": {
+        "message": "Veciñanza (11)",
+        "description": "Tag \"admin_level=11\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=11"
+    },
+    "tag:admin_level=2": {
+        "message": "Fronteira nacional (2)",
+        "description": "Tag \"admin_level=2\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=2"
+    },
+    "tag:admin_level=3": {
+        "message": "Nivel (3)",
+        "description": "Tag \"admin_level=3\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=3"
+    },
+    "tag:admin_level=4": {
+        "message": "Fronteira de autonomía (4)",
+        "description": "Tag \"admin_level=4\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=4"
+    },
+    "tag:admin_level=5": {
+        "message": "Nivel (5)",
+        "description": "Tag \"admin_level=5\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=5"
+    },
+    "tag:admin_level=6": {
+        "message": "Provincia (6)",
+        "description": "Tag \"admin_level=6\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=6"
+    },
+    "tag:admin_level=7": {
+        "message": "Comarca (7)",
+        "description": "Tag \"admin_level=7\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=7"
+    },
+    "tag:admin_level=8": {
+        "message": "Concello (8)",
+        "description": "Tag \"admin_level=8\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=8"
+    },
+    "tag:admin_level=9": {
+        "message": "Parroquia (9)",
+        "description": "Tag \"admin_level=9\". See https://wiki.openstreetmap.org/wiki/Tag:admin_level=9"
+    },
+    "tag:amenity=recycling recycling_type=centre": {
+        "message": ""
+    },
+    "tag:amenity=recycling recycling_type=container": {
+        "message": ""
+    },
+    "tag:clothes": {
+        "message": "",
+        "description": "Key \"clothes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=accessories": {
+        "message": "",
+        "description": "Tag \"clothes=accessories\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=babies": {
+        "message": "",
+        "description": "Tag \"clothes=babies\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=brand": {
+        "message": "",
+        "description": "Tag \"clothes=brand\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=bridal": {
+        "message": "",
+        "description": "Tag \"clothes=bridal\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=children": {
+        "message": "",
+        "description": "Tag \"clothes=children\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=costumes": {
+        "message": "",
+        "description": "Tag \"clothes=costumes\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=denim": {
+        "message": "",
+        "description": "Tag \"clothes=denim\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=fashion": {
+        "message": "",
+        "description": "Tag \"clothes=fashion\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=fur": {
+        "message": "",
+        "description": "Tag \"clothes=fur\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=hats": {
+        "message": "",
+        "description": "Tag \"clothes=hats\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=leather": {
+        "message": "",
+        "description": "Tag \"clothes=leather\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=lingerie": {
+        "message": "",
+        "description": "Tag \"clothes=lingerie\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=maternity": {
+        "message": "",
+        "description": "Tag \"clothes=maternity\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=men": {
+        "message": "",
+        "description": "Tag \"clothes=men\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=military": {
+        "message": "",
+        "description": "Tag \"clothes=military\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=motorcycle": {
+        "message": "",
+        "description": "Tag \"clothes=motorcycle\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=oversize": {
+        "message": "",
+        "description": "Tag \"clothes=oversize\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=schoolwear": {
+        "message": "",
+        "description": "Tag \"clothes=schoolwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=sports": {
+        "message": "",
+        "description": "Tag \"clothes=sports\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=suits": {
+        "message": "",
+        "description": "Tag \"clothes=suits\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=swimwear": {
+        "message": "",
+        "description": "Tag \"clothes=swimwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=traditional": {
+        "message": "",
+        "description": "Tag \"clothes=traditional\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=underwear": {
+        "message": "",
+        "description": "Tag \"clothes=underwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=unisexs": {
+        "message": "",
+        "description": "Tag \"clothes=unisexs\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=vintage": {
+        "message": "",
+        "description": "Tag \"clothes=vintage\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=wedding": {
+        "message": "",
+        "description": "Tag \"clothes=wedding\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=women": {
+        "message": "",
+        "description": "Tag \"clothes=women\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:clothes=workwear": {
+        "message": "",
+        "description": "Tag \"clothes=workwear\". See https://wiki.openstreetmap.org/wiki/Key:clothes"
+    },
+    "tag:cuisine=afghan": {
+        "message": "",
+        "description": "Tag \"cuisine=afghan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=african": {
+        "message": "",
+        "description": "Tag \"cuisine=african\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=american": {
+        "message": "",
+        "description": "Tag \"cuisine=american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=arab": {
+        "message": "",
+        "description": "Tag \"cuisine=arab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=argentinian": {
+        "message": "",
+        "description": "Tag \"cuisine=argentinian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=asian": {
+        "message": "",
+        "description": "Tag \"cuisine=asian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=australian": {
+        "message": "",
+        "description": "Tag \"cuisine=australian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bagel": {
+        "message": "",
+        "description": "Tag \"cuisine=bagel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=baiana": {
+        "message": "",
+        "description": "Tag \"cuisine=baiana\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=balkan": {
+        "message": "",
+        "description": "Tag \"cuisine=balkan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=basque": {
+        "message": "",
+        "description": "Tag \"cuisine=basque\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bavarian": {
+        "message": "",
+        "description": "Tag \"cuisine=bavarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=belarusan": {
+        "message": "",
+        "description": "Tag \"cuisine=belarusan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=biscuit": {
+        "message": "",
+        "description": "Tag \"cuisine=biscuit\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bolivian": {
+        "message": "",
+        "description": "Tag \"cuisine=bolivian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=bougatsa": {
+        "message": "",
+        "description": "Tag \"cuisine=bougatsa\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=brazilian": {
+        "message": "",
+        "description": "Tag \"cuisine=brazilian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=cake": {
+        "message": "",
+        "description": "Tag \"cuisine=cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=cantonese": {
+        "message": "",
+        "description": "Tag \"cuisine=cantonese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=capixaba": {
+        "message": "",
+        "description": "Tag \"cuisine=capixaba\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=caribbean": {
+        "message": "",
+        "description": "Tag \"cuisine=caribbean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=casserole": {
+        "message": "",
+        "description": "Tag \"cuisine=casserole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chicken": {
+        "message": "",
+        "description": "Tag \"cuisine=chicken\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chimney_cake": {
+        "message": "",
+        "description": "Tag \"cuisine=chimney_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=chinese": {
+        "message": "",
+        "description": "Tag \"cuisine=chinese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=coffee": {
+        "message": "",
+        "description": "Tag \"cuisine=coffee\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=coffee_shop": {
+        "message": "",
+        "description": "Tag \"cuisine=coffee_shop\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=cookie": {
+        "message": "",
+        "description": "Tag \"cuisine=cookie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=couscous": {
+        "message": "",
+        "description": "Tag \"cuisine=couscous\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=crepe": {
+        "message": "",
+        "description": "Tag \"cuisine=crepe\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=croatian": {
+        "message": "",
+        "description": "Tag \"cuisine=croatian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=curry": {
+        "message": "",
+        "description": "Tag \"cuisine=curry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=czech": {
+        "message": "",
+        "description": "Tag \"cuisine=czech\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=danish": {
+        "message": "",
+        "description": "Tag \"cuisine=danish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=dessert": {
+        "message": "",
+        "description": "Tag \"cuisine=dessert\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=donut": {
+        "message": "",
+        "description": "Tag \"cuisine=donut\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=empanada": {
+        "message": "",
+        "description": "Tag \"cuisine=empanada\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fish": {
+        "message": "",
+        "description": "Tag \"cuisine=fish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fish_and_chips": {
+        "message": "",
+        "description": "Tag \"cuisine=fish_and_chips\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=french": {
+        "message": "",
+        "description": "Tag \"cuisine=french\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=fried_food": {
+        "message": "",
+        "description": "Tag \"cuisine=fried_food\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=friture": {
+        "message": "",
+        "description": "Tag \"cuisine=friture\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=frozen_yogurt": {
+        "message": "",
+        "description": "Tag \"cuisine=frozen_yogurt\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gaucho": {
+        "message": "",
+        "description": "Tag \"cuisine=gaucho\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=german": {
+        "message": "",
+        "description": "Tag \"cuisine=german\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gingerbread": {
+        "message": "",
+        "description": "Tag \"cuisine=gingerbread\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=greek": {
+        "message": "",
+        "description": "Tag \"cuisine=greek\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=gyros": {
+        "message": "",
+        "description": "Tag \"cuisine=gyros\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hawaiian": {
+        "message": "",
+        "description": "Tag \"cuisine=hawaiian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hunan": {
+        "message": "",
+        "description": "Tag \"cuisine=hunan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=hungarian": {
+        "message": "",
+        "description": "Tag \"cuisine=hungarian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=ice_cream": {
+        "message": "",
+        "description": "Tag \"cuisine=ice_cream\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=indian": {
+        "message": "",
+        "description": "Tag \"cuisine=indian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=international": {
+        "message": "",
+        "description": "Tag \"cuisine=international\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=iranian": {
+        "message": "",
+        "description": "Tag \"cuisine=iranian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=italian": {
+        "message": "",
+        "description": "Tag \"cuisine=italian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=japanese": {
+        "message": "",
+        "description": "Tag \"cuisine=japanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=jewish": {
+        "message": "",
+        "description": "Tag \"cuisine=jewish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=kebab": {
+        "message": "",
+        "description": "Tag \"cuisine=kebab\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=korean": {
+        "message": "",
+        "description": "Tag \"cuisine=korean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=kyo_ryouri": {
+        "message": "",
+        "description": "Tag \"cuisine=kyo_ryouri\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=langos": {
+        "message": "",
+        "description": "Tag \"cuisine=langos\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=latin_american": {
+        "message": "",
+        "description": "Tag \"cuisine=latin_american\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=lebanese": {
+        "message": "",
+        "description": "Tag \"cuisine=lebanese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=malagasy": {
+        "message": "",
+        "description": "Tag \"cuisine=malagasy\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mediterranean": {
+        "message": "",
+        "description": "Tag \"cuisine=mediterranean\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mexican": {
+        "message": "",
+        "description": "Tag \"cuisine=mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=mineira": {
+        "message": "",
+        "description": "Tag \"cuisine=mineira\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=new_mexican": {
+        "message": "",
+        "description": "Tag \"cuisine=new_mexican\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=noodle": {
+        "message": "",
+        "description": "Tag \"cuisine=noodle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=okinawa_ryori": {
+        "message": "",
+        "description": "Tag \"cuisine=okinawa_ryori\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pakistani": {
+        "message": "",
+        "description": "Tag \"cuisine=pakistani\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pancake": {
+        "message": "",
+        "description": "Tag \"cuisine=pancake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pasta": {
+        "message": "",
+        "description": "Tag \"cuisine=pasta\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pastry": {
+        "message": "",
+        "description": "Tag \"cuisine=pastry\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=peruvian": {
+        "message": "",
+        "description": "Tag \"cuisine=peruvian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=petit_four": {
+        "message": "",
+        "description": "Tag \"cuisine=petit_four\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pie": {
+        "message": "",
+        "description": "Tag \"cuisine=pie\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pizza": {
+        "message": "",
+        "description": "Tag \"cuisine=pizza\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=pogacha": {
+        "message": "",
+        "description": "Tag \"cuisine=pogacha\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=polish": {
+        "message": "",
+        "description": "Tag \"cuisine=polish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=poppy_seed_roll": {
+        "message": "",
+        "description": "Tag \"cuisine=poppy_seed_roll\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=portuguese": {
+        "message": "",
+        "description": "Tag \"cuisine=portuguese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=profiterole": {
+        "message": "",
+        "description": "Tag \"cuisine=profiterole\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=punch_cake": {
+        "message": "",
+        "description": "Tag \"cuisine=punch_cake\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=regional": {
+        "message": "",
+        "description": "Tag \"cuisine=regional\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=rhenish": {
+        "message": "",
+        "description": "Tag \"cuisine=rhenish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=russian": {
+        "message": "",
+        "description": "Tag \"cuisine=russian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sandwich": {
+        "message": "",
+        "description": "Tag \"cuisine=sandwich\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sausage": {
+        "message": "",
+        "description": "Tag \"cuisine=sausage\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=savory_pancakes": {
+        "message": "",
+        "description": "Tag \"cuisine=savory_pancakes\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=seafood": {
+        "message": "",
+        "description": "Tag \"cuisine=seafood\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=shandong": {
+        "message": "",
+        "description": "Tag \"cuisine=shandong\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sichuan": {
+        "message": "",
+        "description": "Tag \"cuisine=sichuan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=soup": {
+        "message": "",
+        "description": "Tag \"cuisine=soup\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=spanish": {
+        "message": "",
+        "description": "Tag \"cuisine=spanish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=steak_house": {
+        "message": "",
+        "description": "Tag \"cuisine=steak_house\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=strudel": {
+        "message": "",
+        "description": "Tag \"cuisine=strudel\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sub": {
+        "message": "",
+        "description": "Tag \"cuisine=sub\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=sushi": {
+        "message": "",
+        "description": "Tag \"cuisine=sushi\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=tapas": {
+        "message": "",
+        "description": "Tag \"cuisine=tapas\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=teahouse": {
+        "message": "",
+        "description": "Tag \"cuisine=teahouse\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=tex-mex": {
+        "message": "",
+        "description": "Tag \"cuisine=tex-mex\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=texan": {
+        "message": "",
+        "description": "Tag \"cuisine=texan\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=thai": {
+        "message": "",
+        "description": "Tag \"cuisine=thai\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=turkish": {
+        "message": "",
+        "description": "Tag \"cuisine=turkish\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=vietnamese": {
+        "message": "",
+        "description": "Tag \"cuisine=vietnamese\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=waffle": {
+        "message": "",
+        "description": "Tag \"cuisine=waffle\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=westphalian": {
+        "message": "",
+        "description": "Tag \"cuisine=westphalian\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:cuisine=wings": {
+        "message": "",
+        "description": "Tag \"cuisine=wings\". See https://wiki.openstreetmap.org/wiki/Key:cuisine"
+    },
+    "tag:flood_date": {
+        "message": "",
+        "description": "Key \"flood_date\". See https://wiki.openstreetmap.org/wiki/Key:flood_date"
+    },
+    "tag:flood_mark=engraving": {
+        "message": "",
+        "description": "Tag \"flood_mark=engraving\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=engraving"
+    },
+    "tag:flood_mark=painting": {
+        "message": "",
+        "description": "Tag \"flood_mark=painting\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=painting"
+    },
+    "tag:flood_mark=plaque": {
+        "message": "",
+        "description": "Tag \"flood_mark=plaque\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=plaque"
+    },
+    "tag:flood_mark=pole": {
+        "message": "",
+        "description": "Tag \"flood_mark=pole\". See https://wiki.openstreetmap.org/wiki/Tag:flood_mark=pole"
+    },
+    "tag:frequency=0": {
+        "message": "",
+        "description": "Tag \"frequency=0\" (direct current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
+    },
+    "tag:frequency>0": {
+        "message": "",
+        "description": "Tag \"frequency=*\" (not 0, meaning alternating current). See https://wiki.openstreetmap.org/wiki/Key:frequency"
+    },
+    "tag:healthcare=alternative": {
+        "message": "",
+        "description": "Tag \"healthcare=alternative\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=alternative"
+    },
+    "tag:healthcare=audiologist": {
+        "message": "",
+        "description": "Tag \"healthcare=audiologist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=audiologist"
+    },
+    "tag:healthcare=birthing_center": {
+        "message": "",
+        "description": "Tag \"healthcare=birthing_center\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=birthing_center"
+    },
+    "tag:healthcare=centre": {
+        "message": "",
+        "description": "Tag \"healthcare=centre\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=centre"
+    },
+    "tag:healthcare=dialysis": {
+        "message": "",
+        "description": "Tag \"healthcare=dialysis\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=dialysis"
+    },
+    "tag:healthcare=laboratory": {
+        "message": "",
+        "description": "Tag \"healthcare=laboratory\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=laboratory"
+    },
+    "tag:healthcare=midwife": {
+        "message": "",
+        "description": "Tag \"healthcare=midwife\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=midwife"
+    },
+    "tag:healthcare=nutrition_counseling": {
+        "message": "",
+        "description": "Tag \"healthcare=nutrition_counseling\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=nutrition_counseling"
+    },
+    "tag:healthcare=occupational_therapist": {
+        "message": "",
+        "description": "Tag \"healthcare=occupational_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=occupational_therapist"
+    },
+    "tag:healthcare=optometrist": {
+        "message": "",
+        "description": "Tag \"healthcare=optometrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=optometrist"
+    },
+    "tag:healthcare=pharmacy": {
+        "message": "",
+        "description": "Tag \"healthcare=pharmacy\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=pharmacy"
+    },
+    "tag:healthcare=physiotherapist": {
+        "message": "",
+        "description": "Tag \"healthcare=physiotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=physiotherapist"
+    },
+    "tag:healthcare=podiatrist": {
+        "message": "",
+        "description": "Tag \"healthcare=podiatrist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=podiatrist"
+    },
+    "tag:healthcare=psychotherapist": {
+        "message": "",
+        "description": "Tag \"healthcare=psychotherapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=psychotherapist"
+    },
+    "tag:healthcare=rehabilitation": {
+        "message": "",
+        "description": "Tag \"healthcare=rehabilitation\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=rehabilitation"
+    },
+    "tag:healthcare=speech_therapist": {
+        "message": "",
+        "description": "Tag \"healthcare=speech_therapist\". See https://wiki.openstreetmap.org/wiki/Tag:healthcare=speech_therapist"
+    },
+    "tag:historic=wayside_chapel": {
+        "message": "",
+        "description": "Tag \"historic=wayside_chapel\". See https://wiki.openstreetmap.org/wiki/Tag:historic=wayside_chapel"
+    },
+    "tag:information=audioguide": {
+        "message": "",
+        "description": "Tag \"information=audioguide\". See https://wiki.openstreetmap.org/wiki/Tag:information=audioguide"
+    },
+    "tag:information=board": {
+        "message": "",
+        "description": "Tag \"information=board\". See https://wiki.openstreetmap.org/wiki/Tag:information=board"
+    },
+    "tag:information=guidepost": {
+        "message": "",
+        "description": "Tag \"information=guidepost\". See https://wiki.openstreetmap.org/wiki/Tag:information=guidepost"
+    },
+    "tag:information=map": {
+        "message": "",
+        "description": "Tag \"information=map\". See https://wiki.openstreetmap.org/wiki/Tag:information=map"
+    },
+    "tag:information=office": {
+        "message": "",
+        "description": "Tag \"information=office\". See https://wiki.openstreetmap.org/wiki/Tag:information=office"
+    },
+    "tag:information=route_marker": {
+        "message": "",
+        "description": "Tag \"information=route_marker\". See https://wiki.openstreetmap.org/wiki/Tag:information=route_marker"
+    },
+    "tag:information=tactile_map": {
+        "message": "",
+        "description": "Tag \"information=tactile_map\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_map"
+    },
+    "tag:information=tactile_model": {
+        "message": "",
+        "description": "Tag \"information=tactile_model\". See https://wiki.openstreetmap.org/wiki/Tag:information=tactile_model"
+    },
+    "tag:information=terminal": {
+        "message": "",
+        "description": "Tag \"information=terminal\". See https://wiki.openstreetmap.org/wiki/Tag:information=terminal"
+    },
+    "tag:information=trail_blaze": {
+        "message": "",
+        "description": "Tag \"information=trail_blaze\". See https://wiki.openstreetmap.org/wiki/Tag:information=trail_blaze"
+    },
+    "tag:intermittent": {
+        "message": "",
+        "description": "Key \"intermittent\". See https://wiki.openstreetmap.org/wiki/Key:intermittent"
+    },
+    "tag:memorial=cross": {
+        "message": "",
+        "description": "Tag \"memorial=cross\" or \"memorial:type=cross\" or \"monument=cross\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=cross"
+    },
+    "tag:memorial=ghost_bike": {
+        "message": "",
+        "description": "Tag \"memorial=ghost_bike\" or \"memorial:type=ghost_bike\" or \"monument=ghost_bike\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=ghost_bike"
+    },
+    "tag:memorial=grave": {
+        "message": "",
+        "description": "Tag \"memorial=grave\" or \"memorial:type=grave\" or \"monument=grave\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=grave"
+    },
+    "tag:memorial=graveyard": {
+        "message": "",
+        "description": "Tag \"memorial=graveyard\" or \"memorial:type=graveyard\" or \"monument=graveyard\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=graveyard"
+    },
+    "tag:memorial=high_water_mark": {
+        "message": "",
+        "description": "Tag \"memorial=high_water_mark\" or \"memorial:type=high_water_mark\" or \"monument=high_water_mark\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=high_water_mark"
+    },
+    "tag:memorial=sculpture": {
+        "message": "",
+        "description": "Tag \"memorial=sculpture\" or \"memorial:type=sculpture\" or \"monument=sculpture\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=sculpture"
+    },
+    "tag:memorial=tank": {
+        "message": "",
+        "description": "Tag \"memorial=tank\" or \"memorial:type=tank\" or \"monument=tank\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=tank"
+    },
+    "tag:memorial=vehicle": {
+        "message": "",
+        "description": "Tag \"memorial=vehicle\" or \"memorial:type=vehicle\" or \"monument=vehicle\". See https://wiki.openstreetmap.org/wiki/Tag:memorial=vehicle"
+    },
+    "tag:natural=arete": {
+        "message": "",
+        "description": "Tag \"natural=arete\". See https://wiki.openstreetmap.org/wiki/Tag:natural=arete"
+    },
+    "tag:natural=bare_rock": {
+        "message": "",
+        "description": "Tag \"natural=bare_rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bare_rock"
+    },
+    "tag:natural=bay": {
+        "message": "",
+        "description": "Tag \"natural=bay\". See https://wiki.openstreetmap.org/wiki/Tag:natural=bay"
+    },
+    "tag:natural=beach": {
+        "message": "",
+        "description": "Tag \"natural=beach\". See https://wiki.openstreetmap.org/wiki/Tag:natural=beach"
+    },
+    "tag:natural=cape": {
+        "message": "",
+        "description": "Tag \"natural=cape\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cape"
+    },
+    "tag:natural=cave_entrance": {
+        "message": "",
+        "description": "Tag \"natural=cave_entrance\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cave_entrance"
+    },
+    "tag:natural=cliff": {
+        "message": "",
+        "description": "Tag \"natural=cliff\". See https://wiki.openstreetmap.org/wiki/Tag:natural=cliff"
+    },
+    "tag:natural=coastline": {
+        "message": "",
+        "description": "Tag \"natural=coastline\". See https://wiki.openstreetmap.org/wiki/Tag:natural=coastline"
+    },
+    "tag:natural=divide": {
+        "message": "",
+        "description": "Tag \"natural=divide\". See https://wiki.openstreetmap.org/wiki/Tag:natural=divide"
+    },
+    "tag:natural=fell": {
+        "message": "",
+        "description": "Tag \"natural=fell\". See https://wiki.openstreetmap.org/wiki/Tag:natural=fell"
+    },
+    "tag:natural=geyser": {
+        "message": "",
+        "description": "Tag \"natural=geyser\". See https://wiki.openstreetmap.org/wiki/Tag:natural=geyser"
+    },
+    "tag:natural=glacier": {
+        "message": "",
+        "description": "Tag \"natural=glacier\". See https://wiki.openstreetmap.org/wiki/Tag:natural=glacier"
+    },
+    "tag:natural=grassland": {
+        "message": "",
+        "description": "Tag \"natural=grassland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=grassland"
+    },
+    "tag:natural=hill": {
+        "message": "",
+        "description": "Tag \"natural=hill\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hill"
+    },
+    "tag:natural=hot_spring": {
+        "message": "",
+        "description": "Tag \"natural=hot_spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=hot_spring"
+    },
+    "tag:natural=moor": {
+        "message": "",
+        "description": "Tag \"natural=moor\". See https://wiki.openstreetmap.org/wiki/Tag:natural=moor"
+    },
+    "tag:natural=mud": {
+        "message": "",
+        "description": "Tag \"natural=mud\". See https://wiki.openstreetmap.org/wiki/Tag:natural=mud"
+    },
+    "tag:natural=peak": {
+        "message": "",
+        "description": "Tag \"natural=peak\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peak"
+    },
+    "tag:natural=peninsula": {
+        "message": "",
+        "description": "Tag \"natural=peninsula\". See https://wiki.openstreetmap.org/wiki/Tag:natural=peninsula"
+    },
+    "tag:natural=reef": {
+        "message": "",
+        "description": "Tag \"natural=reef\". See https://wiki.openstreetmap.org/wiki/Tag:natural=reef"
+    },
+    "tag:natural=ridge": {
+        "message": "",
+        "description": "Tag \"natural=ridge\". See https://wiki.openstreetmap.org/wiki/Tag:natural=ridge"
+    },
+    "tag:natural=river_terrace": {
+        "message": "",
+        "description": "Tag \"natural=river_terrace\". See https://wiki.openstreetmap.org/wiki/Tag:natural=river_terrace"
+    },
+    "tag:natural=rock": {
+        "message": "",
+        "description": "Tag \"natural=rock\". See https://wiki.openstreetmap.org/wiki/Tag:natural=rock"
+    },
+    "tag:natural=saddle": {
+        "message": "",
+        "description": "Tag \"natural=saddle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=saddle"
+    },
+    "tag:natural=sand": {
+        "message": "",
+        "description": "Tag \"natural=sand\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sand"
+    },
+    "tag:natural=scree": {
+        "message": "",
+        "description": "Tag \"natural=scree\". See https://wiki.openstreetmap.org/wiki/Tag:natural=scree"
+    },
+    "tag:natural=shingle": {
+        "message": "",
+        "description": "Tag \"natural=shingle\". See https://wiki.openstreetmap.org/wiki/Tag:natural=shingle"
+    },
+    "tag:natural=sinkhole": {
+        "message": "",
+        "description": "Tag \"natural=sinkhole\". See https://wiki.openstreetmap.org/wiki/Tag:natural=sinkhole"
+    },
+    "tag:natural=spring": {
+        "message": "",
+        "description": "Tag \"natural=spring\". See https://wiki.openstreetmap.org/wiki/Tag:natural=spring"
+    },
+    "tag:natural=stone": {
+        "message": "",
+        "description": "Tag \"natural=stone\". See https://wiki.openstreetmap.org/wiki/Tag:natural=stone"
+    },
+    "tag:natural=strait": {
+        "message": "",
+        "description": "Tag \"natural=strait\". See https://wiki.openstreetmap.org/wiki/Tag:natural=strait"
+    },
+    "tag:natural=valley": {
+        "message": "",
+        "description": "Tag \"natural=valley\". See https://wiki.openstreetmap.org/wiki/Tag:natural=valley"
+    },
+    "tag:natural=volcano": {
+        "message": "",
+        "description": "Tag \"natural=volcano\". See https://wiki.openstreetmap.org/wiki/Tag:natural=volcano"
+    },
+    "tag:natural=water": {
+        "message": "",
+        "description": "Tag \"natural=water\". See https://wiki.openstreetmap.org/wiki/Tag:natural=water"
+    },
+    "tag:natural=wetland": {
+        "message": "",
+        "description": "Tag \"natural=wetland\". See https://wiki.openstreetmap.org/wiki/Tag:natural=wetland"
+    },
+    "tag:shop=boutique": {
+        "message": "",
+        "description": "Tag \"shop=boutique\". See https://wiki.openstreetmap.org/wiki/Tag:shop=boutique"
+    },
+    "tag:shop=dairy": {
+        "message": "",
+        "description": "Tag \"shop=dairy\". See https://wiki.openstreetmap.org/wiki/Tag:shop=dairy"
+    },
+    "tag:shop=fishing": {
+        "message": "",
+        "description": "Tag \"shop=fishing\". See https://wiki.openstreetmap.org/wiki/Tag:shop=fishing"
+    },
+    "tag:shop=general": {
+        "message": "",
+        "description": "Tag \"shop=general\". See https://wiki.openstreetmap.org/wiki/Tag:shop=general"
+    },
+    "tag:shop=spices": {
+        "message": "",
+        "description": "Tag \"shop=spices\". See https://wiki.openstreetmap.org/wiki/Tag:shop=spices"
+    },
+    "tag:sport=10pin": {
+        "message": "",
+        "description": "Tag \"sport=10pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=10pin"
+    },
+    "tag:sport=9pin": {
+        "message": "",
+        "description": "Tag \"sport=9pin\". See https://wiki.openstreetmap.org/wiki/Tag:sport=9pin"
+    },
+    "tag:sport=american_football": {
+        "message": "",
+        "description": "Tag \"sport=american_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=american_football"
+    },
+    "tag:sport=archery": {
+        "message": "",
+        "description": "Tag \"sport=archery\". See https://wiki.openstreetmap.org/wiki/Tag:sport=archery"
+    },
+    "tag:sport=badminton": {
+        "message": "",
+        "description": "Tag \"sport=badminton\". See https://wiki.openstreetmap.org/wiki/Tag:sport=badminton"
+    },
+    "tag:sport=billiards": {
+        "message": "",
+        "description": "Tag \"sport=billiards\". See https://wiki.openstreetmap.org/wiki/Tag:sport=billiards"
+    },
+    "tag:sport=bmx": {
+        "message": "",
+        "description": "Tag \"sport=bmx\". See https://wiki.openstreetmap.org/wiki/Tag:sport=bmx"
+    },
+    "tag:sport=canadian_football": {
+        "message": "",
+        "description": "Tag \"sport=canadian_football\". See https://wiki.openstreetmap.org/wiki/Tag:sport=canadian_football"
+    },
+    "tag:sport=cockfighting": {
+        "message": "",
+        "description": "Tag \"sport=cockfighting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cockfighting"
+    },
+    "tag:sport=cycling": {
+        "message": "",
+        "description": "Tag \"sport=cycling\". See https://wiki.openstreetmap.org/wiki/Tag:sport=cycling"
+    },
+    "tag:sport=darts": {
+        "message": "",
+        "description": "Tag \"sport=darts\". See https://wiki.openstreetmap.org/wiki/Tag:sport=darts"
+    },
+    "tag:sport=field_hockey": {
+        "message": "",
+        "description": "Tag \"sport=field_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=field_hockey"
+    },
+    "tag:sport=ice_hockey": {
+        "message": "",
+        "description": "Tag \"sport=ice_hockey\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_hockey"
+    },
+    "tag:sport=ice_skating": {
+        "message": "",
+        "description": "Tag \"sport=ice_skating\". See https://wiki.openstreetmap.org/wiki/Tag:sport=ice_skating"
+    },
+    "tag:sport=model_aerodrome": {
+        "message": "",
+        "description": "Tag \"sport=model_aerodrome\". See https://wiki.openstreetmap.org/wiki/Tag:sport=model_aerodrome"
+    },
+    "tag:sport=motocross": {
+        "message": "",
+        "description": "Tag \"sport=motocross\". See https://wiki.openstreetmap.org/wiki/Tag:sport=motocross"
+    },
+    "tag:sport=rugby_league": {
+        "message": "",
+        "description": "Tag \"sport=rugby_league\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_league"
+    },
+    "tag:sport=rugby_union": {
+        "message": "",
+        "description": "Tag \"sport=rugby_union\". See https://wiki.openstreetmap.org/wiki/Tag:sport=rugby_union"
+    },
+    "tag:sport=sailing": {
+        "message": "",
+        "description": "Tag \"sport=sailing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=sailing"
+    },
+    "tag:sport=surfing": {
+        "message": "",
+        "description": "Tag \"sport=surfing\". See https://wiki.openstreetmap.org/wiki/Tag:sport=surfing"
+    },
+    "tag:sport=weightlifting": {
+        "message": "",
+        "description": "Tag \"sport=weightlifting\". See https://wiki.openstreetmap.org/wiki/Tag:sport=weightlifting"
+    },
+    "tag:water=canal": {
+        "message": "",
+        "description": "Tag \"water=canal\". See https://wiki.openstreetmap.org/wiki/Tag:water=canal"
+    },
+    "tag:water=lagoon": {
+        "message": "",
+        "description": "Tag \"water=lagoon\". See https://wiki.openstreetmap.org/wiki/Tag:water=lagoon"
+    },
+    "tag:water=lake": {
+        "message": "",
+        "description": "Tag \"water=lake\". See https://wiki.openstreetmap.org/wiki/Tag:water=lake"
+    },
+    "tag:water=reservoir": {
+        "message": "",
+        "description": "Tag \"water=reservoir\". See https://wiki.openstreetmap.org/wiki/Tag:water=reservoir"
+    },
+    "tag:water=river": {
+        "message": "",
+        "description": "Tag \"water=river\". See https://wiki.openstreetmap.org/wiki/Tag:water=river"
+    },
+    "tag:waterway=dam": {
+        "message": "",
+        "description": "Tag \"waterway=dam\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=dam"
+    },
+    "tag:waterway=ditch": {
+        "message": "",
+        "description": "Tag \"waterway=ditch\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=ditch"
+    },
+    "tag:waterway=drain": {
+        "message": "",
+        "description": "Tag \"waterway=drain\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=drain"
+    },
+    "tag:waterway=stream": {
+        "message": "",
+        "description": "Tag \"waterway=stream\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=stream"
+    },
+    "tag:waterway=waterfall": {
+        "message": "",
+        "description": "Tag \"waterway=waterfall\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall"
+    },
+    "tag:waterway=weir": {
+        "message": "",
+        "description": "Tag \"waterway=weir\". See https://wiki.openstreetmap.org/wiki/Tag:waterway=weir"
+    }
+}
